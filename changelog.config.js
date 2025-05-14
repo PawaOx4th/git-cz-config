@@ -4,7 +4,7 @@ module.exports = {
   maxMessageLength: 180,
   disableEmoji: true,
   format: "{type}{scope}: {emoji}{subject}",
-  scopes: ["css", "file"],
+  scopes: ["css", "file",'tailwind','ProductCard'],
   list: [
     "test",
     "feat",
